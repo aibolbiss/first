@@ -1,0 +1,19 @@
+{
+  "name": "la",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aibolbiss/first.git"
+  },
+  "author": "Aibol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aibolbiss/first/issues"
+  },
+  "homepage": "https://github.com/aibolbiss/first#readme"
+}
